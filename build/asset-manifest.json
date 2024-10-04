@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e34fdb8c.css",
+    "main.js": "/static/js/main.fca39899.js",
+    "static/media/TAH.png": "/static/media/TAH.c1954450ef32c7f1bd26.png",
+    "static/media/Me.png": "/static/media/Me.bdd1076353d9aebbda36.png",
+    "static/media/Netherland.png": "/static/media/Netherland.6f615a07e66314ab3418.png",
+    "static/media/Coding.png": "/static/media/Coding.1f0f25060cf545f7d9c9.png",
+    "static/media/TinDog.png": "/static/media/TinDog.33c2ffafb0ce897f36b4.png",
+    "static/media/Paperplanes.png": "/static/media/Paperplanes.97e3237969d944e6672e.png",
+    "static/media/Coffee.png": "/static/media/Coffee.3835b38804f517363153.png",
+    "static/media/ThreeJS.png": "/static/media/ThreeJS.aef6d062a297c865efda.png",
+    "static/media/GSAP.png": "/static/media/GSAP.ea017de62e7832ba9ed4.png",
+    "static/media/suse-v1-latin-500.woff2": "/static/media/suse-v1-latin-500.9ef4798dee9b066966b0.woff2",
+    "static/media/suse-v1-latin-600.woff2": "/static/media/suse-v1-latin-600.863b853ff178bae90333.woff2",
+    "static/media/suse-v1-latin-700.woff2": "/static/media/suse-v1-latin-700.c6cbe95cb670f0e05e4c.woff2",
+    "static/media/suse-v1-latin-300.woff2": "/static/media/suse-v1-latin-300.723984864c3177ff5854.woff2",
+    "static/media/suse-v1-latin-200.woff2": "/static/media/suse-v1-latin-200.813873e2b6acaeb7109f.woff2",
+    "static/media/suse-v1-latin-regular.woff2": "/static/media/suse-v1-latin-regular.5f5e8916450a39b1d4ae.woff2",
+    "static/media/suse-v1-latin-100.woff2": "/static/media/suse-v1-latin-100.d5094783bf4512dee682.woff2",
+    "static/media/suse-v1-latin-800.woff2": "/static/media/suse-v1-latin-800.0e541977018e57218602.woff2",
+    "static/media/photoshop-94.png": "/static/media/photoshop-94.fb246f127489d8edca5b.png",
+    "static/media/oswald-v53-latin-500.woff2": "/static/media/oswald-v53-latin-500.fb047f0c1c52a07547b2.woff2",
+    "static/media/oswald-v53-latin-600.woff2": "/static/media/oswald-v53-latin-600.8bd65da56df8bddcf8a5.woff2",
+    "static/media/oswald-v53-latin-700.woff2": "/static/media/oswald-v53-latin-700.f7ade8277d927ff69c37.woff2",
+    "static/media/oswald-v53-latin-300.woff2": "/static/media/oswald-v53-latin-300.e6020037afcf5781b693.woff2",
+    "static/media/oswald-v53-latin-regular.woff2": "/static/media/oswald-v53-latin-regular.a1415da4d7ad28ef8f9e.woff2",
+    "static/media/oswald-v53-latin-200.woff2": "/static/media/oswald-v53-latin-200.8c17c9607fdfc4f103a0.woff2",
+    "index.html": "/index.html",
+    "main.e34fdb8c.css.map": "/static/css/main.e34fdb8c.css.map",
+    "main.fca39899.js.map": "/static/js/main.fca39899.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34fdb8c.css",
+    "static/js/main.fca39899.js"
+  ]
+}
